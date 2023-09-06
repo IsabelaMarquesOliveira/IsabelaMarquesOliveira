@@ -1,4 +1,4 @@
-<img align="right" height="250" style="padding: 25px" src="https://cutewallpaper.org/24/animated-computer-gifs/pin-on-illustration-design.gif"/>
+<img align="right" height="170" style="padding: 20px" src="https://cutewallpaper.org/24/animated-computer-gifs/pin-on-illustration-design.gif"/>
 
 👋 Olá, sou Isabela Marques!
 
