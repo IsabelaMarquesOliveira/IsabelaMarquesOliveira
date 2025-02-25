@@ -3,7 +3,7 @@
 👋 Olá, sou Isabela Marques!
 
 - 🔭 🚀 Apaixonada por tecnologia.
-- 💡 Estudante de análise e desenvolvimento de sistemas. 
+- 💡 Formada em análise e desenvolvimento de sistemas. 
 - 🌐 Atualmente, estou focada em crescer na área de TI.
 - 🌱 Estou sempre aprendendo e adoraria colaborar em projetos interessantes.
 - 👇 Confira meus projetos abaixo e fique à vontade para contribuir ou entrar em contato!
